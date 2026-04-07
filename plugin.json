@@ -1,0 +1,8 @@
+{
+  "id": "markdown-ai-v1",
+  "name": "Markdown AI V1",
+  "description": "Analyze selected Markdown files in Eagle, then write back a title, summary, and tags using a local OpenAI-compatible model.",
+  "type": "plugin",
+  "version": "1.0.0",
+  "author": "OpenAI"
+}
